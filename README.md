@@ -53,6 +53,7 @@ in this url you can see the swagger ui for this api calculator.
 https://app.swaggerhub.com/apis/ARIK27/calculator-api/v1
 
 # Other Files
+- "nodejs-server-server-generated.zip"
 
 there is a zip file for implementing the feature:  ***Server stub using  Swagger Codegen***
 it based on nodejs server.
